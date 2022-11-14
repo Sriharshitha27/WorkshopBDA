@@ -8,7 +8,7 @@ There is a scope to exploit the latest data science technologies such as artific
 
 The workshop is structured around ongoing research efforts in investigating data science approaches to build decision support systems for legal domain.  This workshop is a collection of  keynote talks, invited presentations and a panel.
 
-### Organisation
+<!-- ### Organisation
 
 IIIT Hyderabad, India
 
@@ -30,5 +30,5 @@ IIIT Hyderabad, India
     - Anirban Mondal (Ashoka University, Sonipat, India)
     - Mukesh Mohania (IIIT Delhi, Delhi, India)
     - Girish Agrawal (O.P. Jindal Global University, Sonipat, India
-    - V. Balakista Reddy, NALSAR University of Law, Telangana State, India 
+    - V. Balakista Reddy, NALSAR University of Law, Telangana State, India  -->
 
