@@ -16,23 +16,33 @@ IIIT Hyderabad, India
 ## Committees
 **Honorary Chairs**
 
-    - Srikrishna Deva Rao,  Vice-chancellor, NALSAR University of Law, Telangana State, India 
+    - Srikrishna Deva Rao,  
+      Vice-chancellor, 
+      NALSAR University of Law, Telangana State, India 
 
-    - P.J.Narayanan,  Director, IIIT Hyderabad, Telangana State, India
+    - P.J.Narayanan,  
+      Director, 
+      IIIT Hyderabad, Telangana State, India
 
 **Workshop Chairs**
     
-    - P. Krishna Reddy, IIIT Hyderabad, Telangana State, India
+    - P. Krishna Reddy, 
+      IIIT Hyderabad, Telangana State, India
     
-    - K.V.K. Santhy, NALSAR University of Law, Telangana State,  India
+    - K.V.K. Santhy, 
+      NALSAR University of Law, Telangana State,  India
 
 **Advisory Commitee**
     
-    - Anirban Mondal (Ashoka University, Sonipat, India)
+    - Anirban Mondal, 
+      (Ashoka University, Sonipat, India)
    
-    - Mukesh Mohania (IIIT Delhi, Delhi, India)
+    - Mukesh Mohania, 
+      (IIIT Delhi, Delhi, India)
     
-    - Girish Agrawal (O.P. Jindal Global University, Sonipat, India
+    - Girish Agrawal,
+      (O.P. Jindal Global University, Sonipat, India
     
-    - V. Balakista Reddy, NALSAR University of Law, Telangana State, India 
+    - V. Balakista Reddy, 
+      NALSAR University of Law, Telangana State, India 
 
