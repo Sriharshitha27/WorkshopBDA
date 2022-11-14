@@ -1,6 +1,6 @@
 # Build Settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minima
 minima:
   skin: dark
 plugins:
