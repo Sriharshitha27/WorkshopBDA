@@ -1,14 +1,13 @@
 # Build Settings
-markdown: kramdown
 # theme: jekyll-theme-architect
 theme: minima
-minima:
-  skin: dark
+# minima:
+#   skin: dark
 # plugins:
 #   - jekyll-remote-theme
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-# remote_theme: songzivong/dark-minima
+remote_theme: songzivong/dark-minima
 title: Workshop on Data Science for  Justice Delivery in India  (DSJDI-2022) 
 subtitle: (in conjunction with Tenth International Conference on Big  Data Analytics 2022 (BDA 2022), 19 - 22, December 2022, http://wwwbda2022.org)
